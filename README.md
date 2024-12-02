@@ -33,4 +33,4 @@ Setting up personal gateway to set up the auto refresh of data
 PowerBi App creation
 Collaboration, workspace, access permissions in PowerBi services
 And more 😅
-GitHub
+https://app.powerbi.com/groups/me/reports/378d3359-7bd4-4ae1-b5a1-b47eac783590?ctid=c6e549b3-5f45-4032-aae9-d4244dc5b2c4&pbi_source=linkShare
