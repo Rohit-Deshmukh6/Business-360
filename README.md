@@ -1,35 +1,16 @@
-**Business Insights 360**
+Project Details
+AtliQ Hardware, a global company, is facing financial losses in its Latin American operations due to difficulties in making accurate, data-driven decisions. To closely monitor business operations, and strengthen its competitive position, AtliQ has implemented Power BI for advanced data analytics and more informed decision-making.
 
-Project Overview
-AtliQ Hardware is growing rapidly in the recent years, and they have decided to implement the data analytics using PowerBi in their company for the first time to surpass their competitors in the market and to make data driven decisions. This project is hoped to give answers to the questions of stakeholder in terms all the aspects like finance, sales, marketing and supply chain.
+Tools/Methods:
+● My SQL
+● Power BI Desktop
+● Power Query
+● Snowflake Schema
+● DAX
+● DAX Studio
+● Power BI Service
 
-
-Tech stacks
-SQL
-PowerBi Desktop
-Excel
-DAX language
-DAX studio (for optimizing the report)
-Project charter file
-PowerBI techniques Learnt
-What are all the questions should be asked before staring the project
-Creating calculated columns
-creating measure using DAX language
-Data modeling
-Using Bookmarks to switch between two visuals
-Page navigation with buttons
-Using divide function to prevent zero division errors
-creating date table using m language
-Dynamic titles based on the applied filters
-Using KPI indicators
-Conditional formatting the values in visuals using icons or background color
-Data validation techniques
-PowerBi services
-Publishing reports to PowerBi services
-Setting up personal gateway to set up the auto refresh of data
-PowerBi App creation
-Collaboration, workspace, access permissions in PowerBi services
-And more 😅
+In addition to developing technical skills, this project provides a comprehensive understanding of key business concepts across various departments and expertise in stakeholder management. These skills are critical for ensuring smooth and productive processes, leading to effective and impactful outcomes.
 
 Power BI Dashboard Link:
-https://app.powerbi.com/groups/me/reports/378d3359-7bd4-4ae1-b5a1-b47eac783590?ctid=c6e549b3-5f45-4032-aae9-d4244dc5b2c4&pbi_source=linkShare
+https://app.powerbi.com/view?r=eyJrIjoiMGFmNjY3NTItY2ZjYS00YWE4LWFmY2MtM2M2YTZkZTljNjEwIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
